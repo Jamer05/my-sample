@@ -1,0 +1,165 @@
+
+.othernavbar{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#shopname> h1{
+	font-weight: bold;
+	font-size: 70px;
+	text-align: center;
+}
+
+
+.ban-bottom-w3l {
+    padding: 3em 0;
+}
+
+.ban-bottom-w3l {
+    padding: 2em 0;
+}
+
+.ban-bottom-w3l {
+    padding: 5em 0;
+}
+
+.ban-bottom-w3l {
+    padding: 3em 0;
+}
+
+.ban-bottom-w3l {
+    padding: 2em 0;
+}
+
+.ban-bottom-w3l {
+    padding: 5em 0;
+}
+
+
+.ban-top{
+	position: relative;
+    overflow: hidden;
+}
+.ban-top img {
+	-moz-transition: all 1s;
+    -o-transition: all 1s;
+    -webkit-transition: all 1s;
+    transition: all 1s;
+    width: 100%;
+}
+
+.newproducts-w3agile {
+    padding: 2em 0 1em;
+}
+
+.newproducts-w3agile h3{
+	text-align:center;
+	color:#212121;
+	padding-bottom:.5em;
+	position:relative;
+	font-size: 2.5em;
+	text-transform: uppercase;
+}
+.newproducts-w3agile h3:after{
+	content: '';
+    background: #3399cc;
+    height: 2px;
+    width: 15%;
+    position: absolute;
+    bottom: 0%;
+    left: 43%;
+}
+
+.newproducts-w3agile {
+    padding: 5em 0;
+    background: #f5f5f5;
+}
+
+.newproducts-w3agile h3{
+    font-size: 2em;
+}
+
+.newproducts-w3agile {
+    padding: 3em 0 2em;
+}
+
+.newproducts-w3agile h3{
+    font-size: 1.7em;
+}
+
+.newproducts-w3agile h3{
+    font-size: 1.4em;
+}
+
+
+
+.agile_top_brand_left_grid1 img {
+   max-width: 100%;
+   height:absolute;
+}
+.agile_top_brand_left_grid1 p {
+    font-size: 13px;
+}
+.agile_top_brand_left_grid1 h4, .agileinfo_single_right_snipcart h4 {
+    font-size: 0.9em;
+}
+
+.agile_top_brand_left_grid {
+    position: relative;
+    display: block;
+}
+
+.agile_top_brand_left_grid_pos{
+	position:absolute;
+	top:0%;
+	right:0%;
+}
+
+.agile_top_brand_left_grid1{
+	padding:1em;
+
+}
+.agile_top_brand_left_grid1 img{
+	margin:0 auto;
+}
+.top-brands{
+    background: #f5f5f5;
+	padding:5em 0;
+}
+.agile_top_brand_left_grid1 p{
+	color:#212121;
+	margin:1.5em 0 1em;
+	line-height:1.5em;
+	text-transform:capitalize;
+	font-size:14px;
+	text-align: center;
+}
+.agile_top_brand_left_grid1 h4,.agileinfo_single_right_snipcart h4{
+	font-weight:600;
+	font-size:1em;
+	color:#212121;
+	text-align: center;
+}
+.agile_top_brand_left_grid1 h4 span,.agileinfo_single_right_snipcart h4 span{
+	font-weight:300;
+	text-decoration:line-through;
+	padding-left:1em;
+}
+
+
+
+.footer {
+    padding: 1em 0 1em;
+    background: #2b2a2a;
+}
+
+
+.footer-copy p{
+	margin:4em 0 0;
+	text-align:center;
+	color:#999;
+	line-height:1em;
+}	
+footer{
+	display: block;
+}
